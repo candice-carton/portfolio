@@ -28,10 +28,10 @@
     "home": {
       "title": "Portfolio - Candice Carton",
       "heading": "Candice Carton",
-      "subtitle": "Computer Science Student",
+      "subtitle": "Computer Science Student · Seeking an apprenticeship starting September 2026",
       "intro": [
-        "As a second-year Computer Science student at the IUT of Clermont-Ferrand, I specialize in mobile and web development, with complementary skills in database management and interactive experience design.",
-        "I am looking for a work-study position for my third year, with a focus on mobile development. Passionate about Japanese culture, anime, and game design, these interests shape my creative perspective and enrich the way I approach interface and user experience design."
+        "As a second-year Computer Science student at the IUT of Clermont-Ferrand, back from a semester in Canada, I specialize in mobile and web development, with complementary skills in database management and interactive experience design.",
+        "I am currently completing a two-month internship at Overscan, focused on the development of an interactive mobile application. Inclusion matters deeply to me, and I would like to design accessible interfaces, with thoughtful gamification and reduced cognitive load, especially in fields such as health and social care."
       ],
       "actions": [
         "View my technical profile",
@@ -56,8 +56,8 @@
           "label": "Video game design - one-pager"
         },
         {
-          "alt": "Semester in Canada",
-          "label": "Semester in Canada - UQAC"
+          "alt": "Universite du Quebec a Chicoutimi",
+          "label": "Completed semester in Canada - UQAC"
         }
       ]
     },
@@ -159,12 +159,12 @@
           "date": "Period: Jan 2026 - Apr 2026",
           "paragraphs": [
             "Universite du Quebec a Chicoutimi (UQAC)",
-            "International experience as part of my Computer Science degree.",
-            "Goal: strengthen my technical skills and improve my English in a different academic environment."
+            "International experience completed as part of my Computer Science degree.",
+            "This semester allowed me to strengthen my technical skills and improve my English in a different academic environment."
           ],
           "items": [
             "Cultural openness and adaptation to a new study environment.",
-            "Greater independence and communication skills."
+            "Greater independence, communication skills, and adaptability."
           ]
         },
         {
@@ -177,7 +177,8 @@
           ],
           "items": [
             "More ambitious coursework projects carried out over longer time spans.",
-            "Stronger foundations in Python, C, SQL, and web and mobile development with a more professional approach."
+            "Stronger foundations in Python, C, SQL, and web and mobile development with a more professional approach.",
+            "Two-month internship at <a class=\"site\" href=\"https://overscan.fr/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Overscan</strong></a>, focused on the development of an interactive mobile application."
           ]
         },
         {
@@ -217,28 +218,28 @@
         {
           "title": "Reading",
           "paragraphs": [
-            "I love reading, whether it is novels, manga, or manhwa. Reading lets me escape, discover new worlds, and enrich my imagination."
+            "I love reading, whether it is novels, manga, or manhwa. It helps me slow down, discover very different worlds, and feed my imagination, especially when I think about stories, atmospheres, or characters for my own projects. <strong>Solo Leveling</strong> also mattered to me: it was one of the first manhwa I read, and I loved its energy, action, and theme of self-improvement. I also like stories with strong, independent female figures who are not reduced to fragile roles or characters who need to be saved."
           ]
         },
         {
           "title": "Video games & esports",
           "paragraphs": [
-            "Video games play an important role in my life. I especially enjoy open-world solo games. I am also very interested in esports for its team spirit, strategy, and the passion shared by players and communities."
+            "Video games play an important role in my life, both as a player and as a future developer. I especially enjoy open-world solo games because they give real freedom to explore and often tell a lot through their environments, pacing, and details. <strong>Genshin Impact</strong> particularly left a mark on me: its detailed lore, visuals, and world stayed with me for several years, from 2020 to 2026. It is also a game that helps me relax and one I genuinely spent a lot of time with. I am also interested in esports for its team spirit, strategy, and communication, which are important in collaborative software projects."
           ]
         },
         {
           "title": "Anime & Films",
           "paragraphs": [
-            "I am passionate about anime, films, and series. I enjoy discovering Japanese works as well as films from around the world for their creativity and the emotions they convey. Fantasy and science fiction are my favorite genres, but I also enjoy dramas and comedies.",
-            "Some anime left a mark on me because their settings were inspired by real places in Japan. I love recognizing these places in the stories, and I have already been able to visit some of them, such as <strong>Your Name</strong> and <strong>Suzume</strong>."
+            "I am passionate about anime, films, and series because they can create an atmosphere very quickly: a piece of music, a setting, or a silence can already say a lot. Dystopian stories especially left a mark on me, including <strong>Hunger Games</strong> and <strong>The Maze Runner</strong>, for their tension, closed worlds, and characters who have to push past their limits.",
+            "Some anime left a mark on me because their settings were inspired by real places in Japan. I love recognizing these places in the stories, and I have already been able to visit some of them, such as <strong>Your Name</strong> and <strong>Suzume</strong>. These places make me want to create experiences where the environment already tells something."
           ],
           "subheading": "Iconic anime locations"
         },
         {
           "title": "Japanese culture",
           "paragraphs": [
-            "I truly enjoy Japanese cuisine: sushi, ramen, okonomiyaki, mochi, and more. I like discovering new flavors and trying to cook traditional dishes at home. The presentation of the dishes and the balance of flavors are aspects I especially appreciate.",
-            "Japan is also fascinating for its temples, gardens, festivals, and customs. I admire the beauty of Shinto shrines, the serenity of zen gardens, and the richness of traditional celebrations such as Hanami and Tanabata. I had the chance to travel alone in Japan during a language stay with EF Education, which allowed me to discover these cultural aspects firsthand and deepen my interest in the country."
+            "I truly enjoy Japanese cuisine: sushi, ramen, okonomiyaki, mochi, and more. I like discovering new flavors and trying to cook traditional dishes at home. I also love the care given to presentation: it is a detail that speaks to me, because it shows that a pleasant experience depends both on use and on attention to what people see.",
+            "Japan is also fascinating for its temples, gardens, festivals, and customs. I admire the beauty of Shinto shrines, the serenity of zen gardens, and the richness of traditional celebrations such as Hanami and Tanabata. I had the chance to travel alone in Japan during a language stay with EF Education, an experience that made me more independent and more curious in the way I approach other cultures."
           ],
           "subheadings": [
             "Japanese food",
@@ -250,7 +251,7 @@
     "projects": {
       "title": "Projects - Candice Carton",
       "heading": "My Projects",
-      "intro": "A selection of my academic and personal work, spanning mobile development, databases, game design, and immersive experiences.",
+      "intro": "A selection of my academic and personal work, spanning mobile development, databases, game design, and immersive experiences. I enjoy designing accessible interfaces with useful gamification and special attention to cognitive load, in order to create tools that are understandable and usable by as many people as possible.",
       "filters": {
         "statusLabel": "Status",
         "skillLabel": "Skills",
@@ -266,6 +267,8 @@
           "unity": "Unity3D",
           "web": "Web & .NET",
           "api": "API",
+          "react-native": "React Native",
+          "a11y": "Accessibility",
           "game-design": "Game design"
         },
         "results": {
@@ -278,7 +281,7 @@
         {
           "title": "Livradois-Forez Forest Mapping",
           "paragraphs": [
-            "This project aims to provide a tree mapping solution for the Livradois-Forez association. The application allows users to consult information about species and diseases, and to add, edit, or delete entries based on field monitoring needs.<br>The team delivered several connected components: a Kotlin mobile app, a PHP web app, a Blazor admin interface, and an API linking everything together.<br>I mainly worked on account authentication on the PHP side and on tree data management with EF. My contribution was cut short when I left for my semester in Canada.",
+            "Team project around forest mapping for Livradois-Forez, with a mobile app, a web app, an administration interface, and an API.<br>The project was complex, especially because the expected data was never really provided. I also struggled at first with the controller-based routing system, which required understanding how the views, API, and data moved together.<br>My technical contribution remained limited because I left for Canada during the project, but this work taught me a lot about communication in a seven-person team, Scrum sprints, the role of a project manager, and the organization needed when everything does not go as planned.",
             "Technologies used: Blazor, PHP, Entity Framework, ASP.NET, Kotlin."
           ],
           "captions": [
@@ -290,8 +293,8 @@
         {
           "title": "Rep'It - Mobile Fitness Routine App",
           "paragraphs": [
-            "This Android app, built in Kotlin by a two-person team, helps users organize workout routines and stay consistent over time.<br>The goal is to provide simple tracking for sessions, exercises, and weekly habits through a clear interface designed for everyday use.<br>In the longer term, the app is intended to connect to a weather API, include a statistics system, and personalize daily challenges according to user preferences and current conditions.",
-            "Technologies used: Kotlin, Android Studio, XML, weather API (planned)."
+            "This Android app, built in Kotlin by a two-person team, helps users organize workout routines and stay consistent over time.<br>We had almost complete freedom in the implementation, which allowed me to propose the app design and develop the pages shown in the portfolio. My teammate focused more on the statistics and profile sections.<br>I encountered a few difficulties with data persistence, but they mainly helped me better understand state management on mobile. The project also required report writing at each stage, which helped me explain my technical choices more clearly.",
+            "Technologies used: Kotlin, Android Studio, XML."
           ],
           "captions": [
             "Overview of active and completed challenges",
@@ -304,20 +307,32 @@
         {
           "title": "Black Out - Immersive VR Experience",
           "paragraphs": [
-            "<strong>Black Out</strong> is a VR project developed by a team of five in Unity3D and designed as an immersive virtual reality experience.<br>The player is placed inside a house with no electricity and must restore the power by finding the key to the room containing the electrical panel.<br>The game relies on pareidolia and audio cues to heighten tension, distort perception, and deepen immersion throughout the experience.",
+            "<strong>Black Out</strong> is the larger of the two VR projects I created in Unity3D. The subject was to represent a phobia in virtual reality, and we chose nyctophobia, the fear of darkness.<br>I imagined the scenario: the player is placed inside a house with no electricity and must restore the power by finding the key to the room containing the electrical panel.<br>I worked on the visuals, especially creating the house, and on interaction ideas, such as random events when the candle goes out. The interactions were difficult to stabilize, especially with box colliders and mesh colliders: the key, for example, was hard to grab. During the testing phase, many things were still broken, then two weeks later everything was working. This experience taught me to work under pressure, sometimes through very long days, and I am very proud of the result for a first real VR experience.",
             "Technologies used: Unity3D."
           ],
           "captions": [
-            "Setting and atmosphere - view 1",
-            "Setting and atmosphere - view 2",
-            "Teleportation and interactions",
-            "Scripted events"
+            "VR experience presentation video"
+          ]
+        },
+        {
+          "title": "Volvic O'rigines - Interactive Visitor App",
+          "paragraphs": [
+            "A project developed from scratch during my two-month internship at Overscan, while I did not yet know the languages and tools used.<br>The app guides visitors through the Volvic O'rigines route zone by zone: QR code scanning, photo and video discovery, quizzes, surveys, reviews, and a hydration-level test.<br>I learned a lot about inclusion and accessibility, especially with VoiceOver. I also thought about gamification as a way to support visitors without overwhelming them: making the route more playful while keeping screens readable, guided, and easy to understand. The difficulties with architecture, Expo routing, and component structure became more natural with practice. This project confirms my desire to develop useful tools for as many people as possible, with a particular interest in health and social care.",
+            "Technologies used: React Native, Next.js, Expo, Expo Go, a11y accessibility."
+          ],
+          "captions": [
+            "Hydration test result",
+            "Hydration quiz",
+            "Quiz question",
+            "Answer feedback",
+            "Zone quiz result",
+            "Video playback with transcript"
           ]
         },
         {
           "title": "VR Weather Station Connected to an API",
           "paragraphs": [
-            "Created in Unity as a functional prototype, this project focused on retrieving weather data from an API and displaying it inside a VR environment.<br>The visual aspect was intentionally secondary. The main objective was to make the weather information clear and visible in the scene, especially on a television in a virtual living room.<br>The final result demonstrates end-to-end integration between Unity and the API, with dynamic weather updates displayed in 3D.",
+            "First long-running project created in Unity, smaller than Black Out but very important in my learning process.<br>I started from zero in VR and discovered the basics of the 3D environment, movement, and interaction. Teleportation was one of the first real technical difficulties.<br>The weather API integration was especially interesting: it helped me understand how to retrieve external data and display it in an interactive environment. This API logic was useful again later in other projects, including Rep'It and Volvic O'rigines.",
             "Technologies used: Unity3D, weather API (HTTP/JSON requests)."
           ],
           "captions": [
@@ -330,7 +345,7 @@
         {
           "title": "Video Game Design Project",
           "paragraphs": [
-            "This solo game design project revolves around <strong>Yume no Fukushuu</strong>, imagined as an action-adventure experience for PC and consoles.<br>The goal was to design a complete concept and present it in a clear one-pager. The project also includes an original lore that goes further than what is shown in the summary document.<br>The concept features five main bosses and emphasizes strong consistency between narrative, worldbuilding, and gameplay intent.",
+            "This solo game design project revolves around <strong>Yume no Fukushuu</strong>, imagined as an action-adventure experience for PC and consoles.<br>This project mattered a lot to me because it brings together several things I love: Japan, storytelling, worldbuilding, and characters who evolve through hardship.<br>I reflected deeply on the protagonist's spiral and on the structure of their journey. I created an art direction, original lore, a one-pager, and a world aligned with my values and interests.<br>The project was selected among the six best to present out of around twenty proposals, which made this personal involvement even more encouraging.",
             "Deliverable: one-pager."
           ],
           "moreInfo": "Learn more",

@@ -33,7 +33,7 @@
     </header>
     <main class="projets-page">
         <h1 class="titre">Mes réalisations</h1>
-        <p class="projets-intro">Un aperçu de mes réalisations académiques et personnelles, avec des projets orientés développement mobile, base de données, game design et expériences immersives.</p>
+        <p class="projets-intro">Un aperçu de mes réalisations académiques et personnelles, avec des projets orientés développement mobile, base de données, game design et expériences immersives. J'aime concevoir des interfaces accessibles, avec une gamification utile et une attention particulière à la surcharge cognitive, afin de créer des outils compréhensibles et utilisables par le plus grand nombre.</p>
 
         <section class="projects-filters" aria-label="Filtres des projets">
             <div class="filters-toolbar">
@@ -66,6 +66,8 @@
                         <button type="button" class="filter-chip" data-filter-group="skill" data-filter-value="unity" aria-pressed="false">Unity3D</button>
                         <button type="button" class="filter-chip" data-filter-group="skill" data-filter-value="web" aria-pressed="false">Web / .NET</button>
                         <button type="button" class="filter-chip" data-filter-group="skill" data-filter-value="api" aria-pressed="false">API</button>
+                        <button type="button" class="filter-chip" data-filter-group="skill" data-filter-value="react-native" aria-pressed="false">React Native</button>
+                        <button type="button" class="filter-chip" data-filter-group="skill" data-filter-value="a11y" aria-pressed="false">Accessibilité</button>
                         <button type="button" class="filter-chip" data-filter-group="skill" data-filter-value="game-design" aria-pressed="false">Game design</button>
                     </div>
                 </div>
@@ -74,19 +76,19 @@
             </div>
         </section>
 
-        <p class="projects-filter-result" data-filter-result>5 projets affichés</p>
+        <p class="projects-filter-result" data-filter-result>6 projets affichés</p>
 
         <section class="projets-layout" aria-label="Liste des réalisations">
 
             <article class="projet" data-skills="kotlin,web,api,database">
                 <div class="project-meta">
-                    <span class="project-status" data-project-status="in-progress"></span>
+                    <span class="project-status" data-project-status="completed"></span>
                 </div>
                 <h3>Cartographie forestière du Livradois-Forez</h3>
                 <p>
-                    Ce projet vise à fournir une cartographie des arbres pour l'association du Livradois-Forez. L'application permet de consulter les informations liées aux espèces et aux maladies, puis d'ajouter, modifier ou supprimer des entrées selon les besoins du suivi terrain.
-                    <br>Le travail d'équipe a abouti à plusieurs livrables complémentaires : une application mobile en Kotlin, une application web en PHP, une application d'administration en Blazor et une API pour relier l'ensemble.
-                    <br>J'ai principalement travaillé sur le système de connexion des comptes côté PHP ainsi que sur la gestion des données relatives aux arbres en EF. Ma contribution a été interrompue en cours de projet en raison de mon départ pour le semestre au Canada.
+                    Projet d'équipe autour d'une cartographie forestière pour le Livradois-Forez, avec une application mobile, une application web, une interface d'administration et une API.
+                    <br>Le projet était complexe, notamment parce que les données attendues n'ont jamais vraiment été fournies. J'ai aussi eu du mal au départ avec le système de routing basé sur les contrôleurs, qui demandait de bien comprendre la circulation entre les vues, l'API et les données.
+                    <br>Ma contribution technique est restée limitée à cause de mon départ au Canada en cours de projet, mais ce travail m'a beaucoup appris sur la communication dans une équipe de 7 personnes, les sprints Scrum, le rôle d'un chef de projet et l'organisation nécessaire quand tout ne se passe pas comme prévu.
                 </p>
                 <p class="projet-note">Technologies utilisées : Blazor, PHP, Entity Framework, ASP.NET, Kotlin.</p>
                 <div class="project-carousel project-carousel-centered" aria-label="Carrousel du projet de cartographie forestière">
@@ -114,15 +116,15 @@
 
             <article class="projet" data-skills="kotlin,api,mobile">
                 <div class="project-meta">
-                    <span class="project-status" data-project-status="in-progress"></span>
+                    <span class="project-status" data-project-status="completed"></span>
                 </div>
                 <h3>Rep'It - application mobile de routines sportives</h3>
                 <p>
                     Application mobile Android développée en Kotlin en équipe de deux pour aider à organiser des routines sportives et garder une pratique régulière.
-                    <br>L'objectif est de proposer un suivi simple des séances, des exercices et des habitudes hebdomadaires dans une interface claire pensée pour un usage quotidien.
-                    <br>À plus long terme, l'application sera reliée à une API météo afin de suggérer un défi du jour adapté aux conditions extérieures, proposera un système de statistiques et permettra de personnaliser les défis du jour en fonction des préférences de l'utilisateur.
+                    <br>Nous avions une liberté presque totale d'implémentation, ce qui m'a permis de proposer le design de l'application et de développer les pages présentées dans le portfolio. Mon collègue s'est davantage occupé des parties statistiques et profil.
+                    <br>J'ai rencontré quelques difficultés sur la persistance des données, mais elles m'ont surtout permis de mieux comprendre la gestion d'un état applicatif sur mobile. Le projet demandait aussi une rédaction de rapports à chaque étape, ce qui m'a aidée à expliquer mes choix techniques plus clairement.
                 </p>
-                <p class="projet-note">Technologies utilisées : Kotlin, Android Studio, XML, API météo (prévue).</p>
+                <p class="projet-note">Technologies utilisées : Kotlin, Android Studio, XML.</p>
                 <div class="project-carousel project-carousel-centered" aria-label="Carrousel du projet Rep'It">
                     <button type="button" class="project-carousel-btn prev" data-action="prev" aria-label="Image précédente">&#10094;</button>
 
@@ -156,44 +158,69 @@
 
             <article class="projet" data-skills="unity,game-design">
                 <div class="project-meta">
-                    <span class="project-status" data-project-status="in-progress"></span>
+                    <span class="project-status" data-project-status="completed"></span>
                 </div>
                 <h3>Black Out - Expérience immersive en réalité virtuelle</h3>
                 <p>
-                    <strong>Black Out</strong> est un projet réalisé en groupe de 5 sous Unity3D, pensé comme une expérience immersive en réalité virtuelle.
-                    <br>Le joueur est plongé dans une maison privée de courant et doit rétablir l'électricité en retrouvant la clé de la pièce où se trouve le panneau électrique.
-                    <br>Le jeu s'appuie sur la paréidolie et l'audition pour renforcer la tension, troubler la perception et accentuer l'immersion tout au long de l'exploration.
+                    <strong>Black Out</strong> est le plus gros des deux projets VR que j'ai réalisés sous Unity3D. Le sujet était de représenter une phobie en réalité virtuelle, et nous avons choisi la nyctophobie, la peur du noir.
+                    <br>J'ai imaginé le scénario : le joueur est plongé dans une maison privée de courant et doit rétablir l'électricité en retrouvant la clé de la pièce où se trouve le panneau électrique.
+                    <br>J'ai travaillé sur les visuels, notamment la création de la maison, et sur les idées d'interactions, comme des événements aléatoires lorsque la bougie s'éteint. Les interactions ont été difficiles à stabiliser, surtout avec les box colliders et mesh colliders : la clé, par exemple, était compliquée à attraper. Pendant la phase de test, beaucoup de choses ne fonctionnaient pas encore, puis deux semaines plus tard tout était en place. Cette expérience m'a appris à travailler sous pression, parfois sur de très longues journées, et je suis très fière du résultat pour une première vraie expérience VR.
                 </p>
                 <p class="projet-note">Technologies utilisées : Unity3D.</p>
-                <div class="photos photos-futures" aria-label="Illustrations du projet VR">
-                    <div class="project-carousel-card">
-                        <div class="project-carousel project-carousel-compact" aria-label="Carrousel des décors du projet Black Out">
-                            <button type="button" class="project-carousel-btn prev" data-action="prev" aria-label="Image précédente">&#10094;</button>
+                <figure class="project-video-wrapper" aria-label="Vidéo de présentation du projet Black Out">
+                    <video class="project-video" controls preload="metadata" poster="../images/projects/decor1.png">
+                        <source src="../images/projects/presentation.mp4" type="video/mp4">
+                        Votre navigateur ne peut pas lire cette vidéo.
+                    </video>
+                    <figcaption class="project-video-caption">Vidéo de présentation de l'expérience VR</figcaption>
+                </figure>
+            </article>
 
-                            <div class="photos" aria-label="Galerie des décors du projet VR">
-                                <figure class="carousel-slide active">
-                                    <img src="../images/projects/decor1.png" alt="Premier décor du projet Black Out">
-                                    <figcaption>Décor et ambiance - vue 1</figcaption>
-                                </figure>
-                                <figure class="carousel-slide">
-                                    <img src="../images/projects/decor2.png" alt="Deuxième décor du projet Black Out">
-                                    <figcaption>Décor et ambiance - vue 2</figcaption>
-                                </figure>
-                            </div>
-
-                            <button type="button" class="project-carousel-btn next" data-action="next" aria-label="Image suivante">&#10095;</button>
-                        </div>
-                        <div class="project-carousel-dots" aria-label="Navigation du carrousel"></div>
-                    </div>
-                    <figure>
-                        <img class="img-placeholder" src="../images/placeholders/placeholder-project.svg" alt="Illustration des interactions du projet VR">
-                        <figcaption>Téléportation et interactions</figcaption>
-                    </figure>
-                    <figure>
-                        <img class="img-placeholder" src="../images/placeholders/placeholder-project.svg" alt="Illustration des événements du projet VR">
-                        <figcaption>Événements scénarisés</figcaption>
-                    </figure>
+            <article class="projet" data-skills="react-native,web,mobile,a11y">
+                <div class="project-meta">
+                    <span class="project-status" data-project-status="in-progress"></span>
                 </div>
+                <h3>Volvic O'rigines - application mobile de parcours interactif</h3>
+                <p>
+                    Projet développé de zéro pendant mon stage de deux mois chez Overscan, alors que je ne connaissais pas encore les langages et outils utilisés.
+                    <br>L'application accompagne les visiteurs du parcours Volvic O'rigines zone par zone : scan de QR codes, découverte de photos et vidéos, quiz, sondages, avis et test du niveau d'hydratation.
+                    <br>J'ai beaucoup appris sur l'inclusion et l'accessibilité, notamment avec VoiceOver. J'ai aussi réfléchi à une gamification qui accompagne le visiteur sans le surcharger : rendre le parcours plus ludique, tout en gardant des écrans lisibles, guidés et simples à comprendre. Les difficultés sur l'architecture, le routing avec Expo et la découpe en composants sont devenues plus naturelles avec la pratique. Ce projet confirme mon envie de développer des outils utiles au plus grand nombre, avec un intérêt particulier pour le médico-social.
+                </p>
+                <p class="projet-note">Technologies utilisées : React Native, Next.js, Expo, Expo Go, accessibilité a11y.</p>
+
+                <div class="project-carousel project-carousel-centered" aria-label="Carrousel du projet Volvic O'rigines">
+                    <button type="button" class="project-carousel-btn prev" data-action="prev" aria-label="Image précédente">&#10094;</button>
+
+                    <div class="photos" aria-label="Captures de l'application Volvic O'rigines">
+                        <figure class="carousel-slide active">
+                            <img src="../images/projects/volvic-hydratation-result.jpg" alt="Résultat du test d'hydratation dans l'application Volvic O'rigines">
+                            <figcaption>Résultat du test d'hydratation</figcaption>
+                        </figure>
+                        <figure class="carousel-slide">
+                            <img src="../images/projects/volvic-hydratation-form.jpg" alt="Formulaire du quiz hydratation dans l'application Volvic O'rigines">
+                            <figcaption>Quiz hydratation</figcaption>
+                        </figure>
+                        <figure class="carousel-slide">
+                            <img src="../images/projects/volvic-quiz-question.jpg" alt="Question de quiz dans l'application Volvic O'rigines">
+                            <figcaption>Question de quiz</figcaption>
+                        </figure>
+                        <figure class="carousel-slide">
+                            <img src="../images/projects/volvic-quiz-feedback.jpg" alt="Correction d'une question de quiz dans l'application Volvic O'rigines">
+                            <figcaption>Feedback après réponse</figcaption>
+                        </figure>
+                        <figure class="carousel-slide">
+                            <img src="../images/projects/volvic-quiz-result.jpg" alt="Écran de résultat du quiz dans l'application Volvic O'rigines">
+                            <figcaption>Résultat d'un quiz de zone</figcaption>
+                        </figure>
+                        <figure class="carousel-slide">
+                            <img src="../images/projects/volvic-zone-video.jpg" alt="Écran de lecture vidéo et transcription d'une zone dans l'application Volvic O'rigines">
+                            <figcaption>Lecture vidéo avec transcription</figcaption>
+                        </figure>
+                    </div>
+
+                    <button type="button" class="project-carousel-btn next" data-action="next" aria-label="Image suivante">&#10095;</button>
+                </div>
+                <div class="project-carousel-dots" aria-label="Navigation du carrousel"></div>
             </article>
 
             <article class="projet" data-skills="unity,api">
@@ -202,9 +229,9 @@
                 </div>
                 <h3>Station météo VR connectée à une API</h3>
                 <p>
-                    Projet réalisé sous Unity avec une logique orientée prototype fonctionnel : l'objectif principal était de récupérer des données météo via une API puis de les afficher dans un environnement VR.
-                    <br>La partie visuelle était volontairement secondaire. L'information météo devait surtout être lisible et visible dans la scène, notamment sur une télévision placée dans un salon virtuel.
-                    <br>Le résultat final permet d'afficher dynamiquement les données météo dans l'univers 3D et de valider l'intégration bout en bout entre Unity et l'API.
+                    Premier projet fil rouge réalisé sous Unity, plus petit que Black Out, mais très important dans mon apprentissage.
+                    <br>Je partais de zéro en VR et j'ai découvert les bases de l'environnement 3D, des déplacements et de l'interaction. La téléportation a été l'une des premières vraies difficultés techniques.
+                    <br>L'intégration d'une API météo a été particulièrement intéressante : elle m'a permis de comprendre comment récupérer des données externes et les afficher dans un environnement interactif. Cette logique d'API m'a ensuite resservi dans d'autres projets, notamment Rep'It et Volvic O'rigines.
                 </p>
                 <p class="projet-note">Technologies utilisées : Unity3D, API météo (requêtes HTTP/JSON).</p>
 
@@ -242,14 +269,15 @@
                 <h3>Projet de conception de jeu vidéo</h3>
                 <p>
                     Projet solo de conception de jeu vidéo autour de <strong>Yume no Fukushuu</strong>, pensé comme une expérience d'action-aventure sur PC et consoles.
-                    <br>L'objectif était d'imaginer un concept complet et de le formaliser dans un one-pager clair. Le projet comprend également tout un lore original, plus détaillé que ce qui est présenté dans le document de synthèse.
-                    <br>Le concept intègre 5 boss principaux et met l'accent sur la cohérence entre narration, univers et intentions de gameplay.
+                    <br>Ce projet me tenait particulièrement à cœur, car il mélange plusieurs choses que j'aime : le Japon, la narration, la création d'univers et les personnages qui évoluent à travers l'épreuve.
+                    <br>J'ai mené une vraie réflexion sur l'engrenage du protagoniste et sur le déroulement de son parcours. J'ai créé une direction artistique, un lore original, un one-pager et un univers cohérent avec mes valeurs et mes goûts.
+                    <br>Le projet a été retenu parmi les 6 meilleurs à présenter sur une vingtaine de propositions, ce qui a rendu cette implication personnelle encore plus encourageante.
                 </p>
                 <p class="projet-note">Livrable réalisé : one-pager.</p>
                 <p class="projet-more">
                     <a class="project-more-link" href="onepager-lore.html">Plus d'informations</a>
                 </p>
-                <div class="photos photos-futures photos-centered" aria-label="Emplacements d'images a venir">
+                <div class="photos photos-futures photos-centered" aria-label="Aperçu du one-pager">
                     <figure>
                         <a href="../Pages/lore.pdf" target="_blank" rel="noopener noreferrer">
                             <img src="../images/projects/Onepager.png" alt="Aperçu du one-pager du projet de conception de jeu vidéo">

@@ -28,10 +28,10 @@
     "home": {
       "title": "Portfolio - Candice Carton",
       "heading": "Candice Carton",
-      "subtitle": "Étudiante en BUT Informatique",
+      "subtitle": "Étudiante en BUT Informatique · À la recherche d'une alternance dès septembre 2026",
       "intro": [
-        "Étudiante en deuxième année de BUT Informatique à l'IUT de Clermont-Ferrand, je me spécialise dans le développement mobile et web, avec des compétences complémentaires en gestion de bases de données et conception d'expériences interactives.",
-        "Je recherche une alternance pour ma 3e année, orientée développement mobile. Passionnée par la culture japonaise, les animés et le game design, ces univers influencent ma sensibilité créative et enrichissent ma façon d'aborder la conception d'interfaces et d'expériences utilisateur."
+        "Étudiante en deuxième année de BUT Informatique à l'IUT de Clermont-Ferrand, de retour d'un semestre au Canada, je me spécialise dans le développement mobile et web, avec des compétences complémentaires en gestion de bases de données et conception d'expériences interactives.",
+        "Je réalise actuellement un stage de deux mois chez Overscan, autour du développement d'une application mobile interactive. L'inclusion pour tous me tient à cœur, et j'aimerais concevoir des interfaces accessibles, gamifiées sans excès, et pensées pour limiter la surcharge cognitive, notamment dans des domaines comme le médico-social."
       ],
       "actions": [
         "Voir mon profil technique",
@@ -56,8 +56,8 @@
           "label": "Conception de jeu vidéo - one-pager"
         },
         {
-          "alt": "Semestre au Canada",
-          "label": "Semestre au Canada - UQAC"
+          "alt": "Université du Québec à Chicoutimi",
+          "label": "Semestre au Canada terminé - UQAC"
         }
       ]
     },
@@ -159,12 +159,12 @@
           "date": "Période : janv. 2026 - avr. 2026",
           "paragraphs": [
             "Université du Québec à Chicoutimi (UQAC)",
-            "Expérience internationale dans le cadre du BUT Informatique.",
-            "Objectif : approfondir les compétences techniques et renforcer l'anglais dans un environnement académique différent."
+            "Expérience internationale réalisée dans le cadre du BUT Informatique.",
+            "Ce semestre m'a permis d'approfondir mes compétences techniques et de renforcer mon anglais dans un environnement académique différent."
           ],
           "items": [
             "Ouverture culturelle et adaptation à un nouveau cadre d'études.",
-            "Développement de l'autonomie et de la communication."
+            "Développement de l'autonomie, de la communication et de la capacité d'adaptation."
           ]
         },
         {
@@ -177,7 +177,8 @@
           ],
           "items": [
             "Projets de SAE plus complets, menés sur des volumes horaires plus importants.",
-            "Renforcement des bases en Python, C, SQL et en développement web et mobile, avec une approche plus professionnalisante."
+            "Renforcement des bases en Python, C, SQL et en développement web et mobile, avec une approche plus professionnalisante.",
+            "Stage de deux mois chez <a class=\"site\" href=\"https://overscan.fr/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Overscan</strong></a>, autour du développement d'une application mobile interactive."
           ]
         },
         {
@@ -217,28 +218,28 @@
         {
           "title": "Lecture",
           "paragraphs": [
-            "J'adore lire, que ce soit des romans, des mangas ou des manhwas (version coréenne des mangas). La lecture me permet de m'évader, de découvrir de nouveaux univers et d'enrichir mon imagination."
+            "J'adore lire, que ce soit des romans, des mangas ou des manhwas. C'est une façon pour moi de me poser, de découvrir des univers très différents et de nourrir mon imagination, notamment quand je réfléchis à des histoires, des ambiances ou des personnages pour mes propres projets. <strong>Solo Leveling</strong> a compté pour moi : c'est l'un des premiers manhwas que j'ai lus, et j'ai beaucoup aimé son énergie, son action et son thème du dépassement de soi. J'aime aussi les récits avec des figures féminines fortes et indépendantes, qui ne sont pas réduites à des rôles fragiles ou à sauver."
           ]
         },
         {
           "title": "Jeux vidéo & esport",
           "paragraphs": [
-            "Les jeux vidéo occupent une place importante dans ma vie. J'apprécie particulièrement les jeux solo en monde ouvert. L'esport m'intéresse aussi beaucoup pour l'esprit d'équipe, la stratégie et la passion qui animent les joueurs et les communautés."
+            "Les jeux vidéo occupent une place importante dans ma vie, autant comme joueuse que comme future développeuse. J'aime particulièrement les jeux solo en monde ouvert, parce qu'ils laissent une vraie liberté d'exploration et racontent souvent beaucoup par leurs décors, leur rythme et leurs détails. <strong>Genshin Impact</strong> m'a particulièrement marquée : son lore très détaillé, ses visuels et son univers m'ont accompagnée pendant plusieurs années, de 2020 à 2026. C'est aussi un jeu qui me détend et dans lequel j'ai vraiment passé du temps. L'esport m'intéresse aussi pour l'esprit d'équipe, la stratégie et la communication, des aspects que je retrouve beaucoup dans les projets informatiques menés en groupe."
           ]
         },
         {
           "title": "Animés & Films",
           "paragraphs": [
-            "Je suis passionnée par les animés, les films et séries. J'aime découvrir des œuvres japonaises, mais aussi des films du monde entier, pour leur créativité et les émotions qu'ils procurent. Le genre fantastique et la science-fiction sont mes préférés, mais j'apprécie aussi les drames et les comédies.",
-            "Certains animés m'ont marquée par leurs décors inspirés de lieux réels au Japon. J'adore retrouver ces endroits dans les œuvres et j'ai déjà pu en visiter certains, comme <strong>Your Name</strong> ou <strong>Suzume</strong> !"
+            "Je suis passionnée par les animés, les films et les séries pour leur capacité à transmettre une ambiance très vite : une musique, un décor ou un silence peuvent suffire à faire comprendre beaucoup de choses. Les dystopies m'ont particulièrement marquée, notamment <strong>Hunger Games</strong> et <strong>Le Labyrinthe</strong>, pour leur tension, leurs univers fermés et leurs personnages qui doivent se dépasser dans des situations extrêmes.",
+            "Certains animés m'ont marquée par leurs décors inspirés de lieux réels au Japon. J'adore retrouver ces endroits dans les œuvres et j'ai déjà pu en visiter certains, comme <strong>Your Name</strong> ou <strong>Suzume</strong>. Ces lieux me donnent envie de créer des expériences où l'environnement raconte déjà quelque chose."
           ],
           "subheading": "Lieux cultes d'anime"
         },
         {
           "title": "Culture japonaise",
           "paragraphs": [
-            "J'apprécie énormément la gastronomie japonaise : sushi, ramen, okonomiyaki, mochi... J'aime découvrir de nouvelles saveurs et essayer de cuisiner des plats traditionnels chez moi. La présentation des plats et les saveurs de ceux-ci sont des aspects que j'apprécie particulièrement.",
-            "Le Japon est aussi fascinant pour ses temples, ses jardins, ses festivals et ses coutumes. J'admire la beauté des sanctuaires shinto, la sérénité des jardins zen, et la richesse des fêtes traditionnelles comme le Hanami ou le Tanabata. J'ai eu la chance de voyager seule au Japon dans le cadre d'un séjour linguistique avec EF Education, ce qui m'a permis de découvrir ces aspects culturels de près et de renforcer mon intérêt pour ce pays."
+            "J'apprécie énormément la gastronomie japonaise : sushi, ramen, okonomiyaki, mochi... J'aime découvrir de nouvelles saveurs et essayer de cuisiner des plats traditionnels chez moi. J'aime aussi le soin apporté à la présentation : c'est un détail qui me parle beaucoup, parce qu'il montre qu'une expérience agréable passe autant par l'usage que par l'attention portée à ce que l'on voit.",
+            "Le Japon est aussi fascinant pour ses temples, ses jardins, ses festivals et ses coutumes. J'admire la beauté des sanctuaires shinto, la sérénité des jardins zen, et la richesse des fêtes traditionnelles comme le Hanami ou le Tanabata. J'ai eu la chance de voyager seule au Japon dans le cadre d'un séjour linguistique avec EF Education, une expérience qui m'a rendue plus autonome et plus curieuse dans ma façon d'aborder les autres cultures."
           ],
           "subheadings": [
             "La nourriture japonaise",
@@ -250,7 +251,7 @@
     "projects": {
       "title": "Réalisations - Candice Carton",
       "heading": "Mes réalisations",
-      "intro": "Un aperçu de mes réalisations académiques et personnelles, avec des projets orientés développement mobile, base de données, game design et expériences immersives.",
+      "intro": "Un aperçu de mes réalisations académiques et personnelles, avec des projets orientés développement mobile, base de données, game design et expériences immersives. J'aime concevoir des interfaces accessibles, avec une gamification utile et une attention particulière à la surcharge cognitive, afin de créer des outils compréhensibles et utilisables par le plus grand nombre.",
       "filters": {
         "statusLabel": "Statut",
         "skillLabel": "Compétences",
@@ -266,6 +267,8 @@
           "unity": "Unity3D",
           "web": "Web / .NET",
           "api": "API",
+          "react-native": "React Native",
+          "a11y": "Accessibilité",
           "game-design": "Game design"
         },
         "results": {
@@ -278,7 +281,7 @@
         {
           "title": "Cartographie forestière du Livradois-Forez",
           "paragraphs": [
-            "Ce projet vise à fournir une cartographie des arbres pour l'association du Livradois-Forez. L'application permet de consulter les informations liées aux espèces et aux maladies, puis d'ajouter, modifier ou supprimer des entrées selon les besoins du suivi terrain.<br>Le travail d'équipe a abouti à plusieurs livrables complémentaires : une application mobile en Kotlin, une application web en PHP, une application d'administration en Blazor et une API pour relier l'ensemble.<br>J'ai principalement travaillé sur le système de connexion des comptes côté PHP ainsi que sur la gestion des données relatives aux arbres en EF. Ma contribution a été interrompue en cours de projet en raison de mon départ pour le semestre au Canada.",
+            "Projet d'équipe autour d'une cartographie forestière pour le Livradois-Forez, avec une application mobile, une application web, une interface d'administration et une API.<br>Le projet était complexe, notamment parce que les données attendues n'ont jamais vraiment été fournies. J'ai aussi eu du mal au départ avec le système de routing basé sur les contrôleurs, qui demandait de bien comprendre la circulation entre les vues, l'API et les données.<br>Ma contribution technique est restée limitée à cause de mon départ au Canada en cours de projet, mais ce travail m'a beaucoup appris sur la communication dans une équipe de 7 personnes, les sprints Scrum, le rôle d'un chef de projet et l'organisation nécessaire quand tout ne se passe pas comme prévu.",
             "Technologies utilisées : Blazor, PHP, Entity Framework, ASP.NET, Kotlin."
           ],
           "captions": [
@@ -290,8 +293,8 @@
         {
           "title": "Rep'It - application mobile de routines sportives",
           "paragraphs": [
-            "Application mobile Android développée en Kotlin en équipe de deux pour aider à organiser des routines sportives et garder une pratique régulière.<br>L'objectif est de proposer un suivi simple des séances, des exercices et des habitudes hebdomadaires dans une interface claire pensée pour un usage quotidien.<br>À plus long terme, l'application sera reliée à une API météo afin de suggérer un défi du jour adapté aux conditions extérieures, proposera un système de statistiques et permettra de personnaliser les défis du jour en fonction des préférences de l'utilisateur.",
-            "Technologies utilisées : Kotlin, Android Studio, XML, API météo (prévue)."
+            "Application mobile Android développée en Kotlin en équipe de deux pour aider à organiser des routines sportives et garder une pratique régulière.<br>Nous avions une liberté presque totale d'implémentation, ce qui m'a permis de proposer le design de l'application et de développer les pages présentées dans le portfolio. Mon collègue s'est davantage occupé des parties statistiques et profil.<br>J'ai rencontré quelques difficultés sur la persistance des données, mais elles m'ont surtout permis de mieux comprendre la gestion d'un état applicatif sur mobile. Le projet demandait aussi une rédaction de rapports à chaque étape, ce qui m'a aidée à expliquer mes choix techniques plus clairement.",
+            "Technologies utilisées : Kotlin, Android Studio, XML."
           ],
           "captions": [
             "Vue d’ensemble des défis",
@@ -304,20 +307,32 @@
         {
           "title": "Black Out - Expérience immersive en réalité virtuelle",
           "paragraphs": [
-            "<strong>Black Out</strong> est un projet réalisé en groupe de 5 sous Unity3D, pensé comme une expérience immersive en réalité virtuelle.<br>Le joueur est plongé dans une maison privée de courant et doit rétablir l'électricité en retrouvant la clé de la pièce où se trouve le panneau électrique.<br>Le jeu s'appuie sur la paréidolie et l'audition pour renforcer la tension, troubler la perception et accentuer l'immersion tout au long de l'exploration.",
+            "<strong>Black Out</strong> est le plus gros des deux projets VR que j'ai réalisés sous Unity3D. Le sujet était de représenter une phobie en réalité virtuelle, et nous avons choisi la nyctophobie, la peur du noir.<br>J'ai imaginé le scénario : le joueur est plongé dans une maison privée de courant et doit rétablir l'électricité en retrouvant la clé de la pièce où se trouve le panneau électrique.<br>J'ai travaillé sur les visuels, notamment la création de la maison, et sur les idées d'interactions, comme des événements aléatoires lorsque la bougie s'éteint. Les interactions ont été difficiles à stabiliser, surtout avec les box colliders et mesh colliders : la clé, par exemple, était compliquée à attraper. Pendant la phase de test, beaucoup de choses ne fonctionnaient pas encore, puis deux semaines plus tard tout était en place. Cette expérience m'a appris à travailler sous pression, parfois sur de très longues journées, et je suis très fière du résultat pour une première vraie expérience VR.",
             "Technologies utilisées : Unity3D."
           ],
           "captions": [
-            "Décor et ambiance - vue 1",
-            "Décor et ambiance - vue 2",
-            "Téléportation et interactions",
-            "Événements scénarisés"
+            "Vidéo de présentation de l'expérience VR"
+          ]
+        },
+        {
+          "title": "Volvic O'rigines - application mobile de parcours interactif",
+          "paragraphs": [
+            "Projet développé de zéro pendant mon stage de deux mois chez Overscan, alors que je ne connaissais pas encore les langages et outils utilisés.<br>L'application accompagne les visiteurs du parcours Volvic O'rigines zone par zone : scan de QR codes, découverte de photos et vidéos, quiz, sondages, avis et test du niveau d'hydratation.<br>J'ai beaucoup appris sur l'inclusion et l'accessibilité, notamment avec VoiceOver. J'ai aussi réfléchi à une gamification qui accompagne le visiteur sans le surcharger : rendre le parcours plus ludique, tout en gardant des écrans lisibles, guidés et simples à comprendre. Les difficultés sur l'architecture, le routing avec Expo et la découpe en composants sont devenues plus naturelles avec la pratique. Ce projet confirme mon envie de développer des outils utiles au plus grand nombre, avec un intérêt particulier pour le médico-social.",
+            "Technologies utilisées : React Native, Next.js, Expo, Expo Go, accessibilité a11y."
+          ],
+          "captions": [
+            "Résultat du test d'hydratation",
+            "Quiz hydratation",
+            "Question de quiz",
+            "Feedback après réponse",
+            "Résultat d'un quiz de zone",
+            "Lecture vidéo avec transcription"
           ]
         },
         {
           "title": "Station météo VR connectée à une API",
           "paragraphs": [
-            "Projet réalisé sous Unity avec une logique orientée prototype fonctionnel : l'objectif principal était de récupérer des données météo via une API puis de les afficher dans un environnement VR.<br>La partie visuelle était volontairement secondaire. L'information météo devait surtout être lisible et visible dans la scène, notamment sur une télévision placée dans un salon virtuel.<br>Le résultat final permet d'afficher dynamiquement les données météo dans l'univers 3D et de valider l'intégration bout en bout entre Unity et l'API.",
+            "Premier projet fil rouge réalisé sous Unity, plus petit que Black Out, mais très important dans mon apprentissage.<br>Je partais de zéro en VR et j'ai découvert les bases de l'environnement 3D, des déplacements et de l'interaction. La téléportation a été l'une des premières vraies difficultés techniques.<br>L'intégration d'une API météo a été particulièrement intéressante : elle m'a permis de comprendre comment récupérer des données externes et les afficher dans un environnement interactif. Cette logique d'API m'a ensuite resservi dans d'autres projets, notamment Rep'It et Volvic O'rigines.",
             "Technologies utilisées : Unity3D, API météo (requêtes HTTP/JSON)."
           ],
           "captions": [
@@ -330,7 +345,7 @@
         {
           "title": "Projet de conception de jeu vidéo",
           "paragraphs": [
-            "Projet solo de conception de jeu vidéo autour de <strong>Yume no Fukushuu</strong>, pensé comme une expérience d'action-aventure sur PC et consoles.<br>L'objectif était d'imaginer un concept complet et de le formaliser dans un one-pager clair. Le projet comprend également tout un lore original, plus détaillé que ce qui est présenté dans le document de synthèse.<br>Le concept intègre 5 boss principaux et met l'accent sur la cohérence entre narration, univers et intentions de gameplay.",
+            "Projet solo de conception de jeu vidéo autour de <strong>Yume no Fukushuu</strong>, pensé comme une expérience d'action-aventure sur PC et consoles.<br>Ce projet me tenait particulièrement à cœur, car il mélange plusieurs choses que j'aime : le Japon, la narration, la création d'univers et les personnages qui évoluent à travers l'épreuve.<br>J'ai mené une vraie réflexion sur l'engrenage du protagoniste et sur le déroulement de son parcours. J'ai créé une direction artistique, un lore original, un one-pager et un univers cohérent avec mes valeurs et mes goûts.<br>Le projet a été retenu parmi les 6 meilleurs à présenter sur une vingtaine de propositions, ce qui a rendu cette implication personnelle encore plus encourageante.",
             "Livrable réalisé : one-pager."
           ],
           "moreInfo": "Plus d'informations",

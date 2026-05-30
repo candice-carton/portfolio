@@ -550,6 +550,28 @@
     margin-top: 0.5rem;
 }
 
+.project-video-wrapper {
+    margin: 1.1rem 0 0;
+}
+
+.project-video {
+    width: 100%;
+    max-height: 520px;
+    border-radius: 14px;
+    background: #0d1f2d;
+    box-shadow: 0 10px 24px rgba(13, 31, 45, 0.16);
+}
+
+.project-video-caption {
+    margin-top: 0.55rem;
+    text-align: center;
+    font-size: 0.88rem;
+}
+
+.projet[data-skills*="react-native"] .photos img {
+    height: 420px;
+}
+
 .img-placeholder {
     object-fit: contain;
     background: linear-gradient(135deg, var(--surface-2), var(--surface-3));
@@ -666,6 +688,10 @@
 
     .photos img {
         height: 160px;
+    }
+
+    .projet[data-skills*="react-native"] .photos img {
+        height: 360px;
     }
 
     .project-carousel {
